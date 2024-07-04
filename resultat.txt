@@ -1,0 +1,3 @@
+Sensibilité	0.957572076
+Précision	0.961354536
+Score F1	0.959592998
